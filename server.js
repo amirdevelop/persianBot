@@ -15,7 +15,7 @@ const wss = new socket.Server({
     server
 });
 const chatId = '2126570077'
-const token = '5315940052:AAEcwcweFnYuy1Z0dGJuu0Hiq8tAWMZjfo4'
+const token = '5549490523:AAGOwGM5bsrqISIOUGqeZZrinkArFxRnL1o'
 const serverAddr = 'https://natural-glen-jasper.glitch.me/'
 const bot = new TelegramBot(token, {
     polling: true
